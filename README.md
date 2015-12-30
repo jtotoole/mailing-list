@@ -1,1 +1,1 @@
-# mailing-list
+mailing list app
